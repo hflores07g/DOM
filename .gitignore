@@ -1,12 +1,13 @@
 # Created by https://www.toptal.com/developers/gitignore/api/windows,macos,linux,node,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,linux,node,visualstudiocode
 
-.pug
+
 ### Linux ###
 *~
 
 # temporary files which can be created if a process still has a handle open of a deleted file
 .fuse_hidden*
+.pug
 
 # KDE directory preferences
 .directory
